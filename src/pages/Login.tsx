@@ -31,7 +31,7 @@ const Login = () => {
       <div className="max-w-md w-full space-y-8">
         <div className="text-center">
           <Link to="/" className="inline-block">
-            <h1 className="text-2xl font-bold text-primary">Harpreet's CFP</h1>
+            <h1 className="text-2xl font-bold text-primary">Fun Raising Campaign</h1>
           </Link>
           <h2 className="mt-6 text-3xl font-extrabold text-gray-900">
             Welcome back

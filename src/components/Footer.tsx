@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-bold text-primary mb-4">Harpreet's CFP</h3>
+            <h3 className="text-lg font-bold text-primary mb-4">Fun Raising Campaign</h3>
             <p className="text-gray-600 text-sm">
               Making fundraising simple, secure, and impactful for causes that matter.
             </p>
@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 text-center">
-          <p>© {new Date().getFullYear()} Harpreet's CFP. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Fun Raising Campaign. All rights reserved.</p>
         </div>
       </div>
     </footer>

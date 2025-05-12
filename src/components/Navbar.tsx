@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="bg-white border-b border-gray-100 py-4">
       <div className="container flex items-center justify-between">
         <Link to="/" className="flex items-center">
-          <span className="text-xl font-bold text-primary">Harpreet's CFP</span>
+          <span className="text-xl font-bold text-primary">Fun Raising Campaign</span>
         </Link>
         <div className="hidden md:flex items-center space-x-6">
           <Link to="/campaigns" className="text-gray-600 hover:text-primary transition">
